@@ -2,7 +2,7 @@
 [kitty](https://github.com/kovidgoyal/kitty) theme with [gruvbox](https://github.com/morhetz/gruvbox).
 
 ## Installation
-1. Download `kitty-gruvbox`.
+1. Download the `kitty-gruvbox` to `~/.config/kitty/`.
    ```bash
    git clone --depth=1 https://github.com/ghsable/kitty-gruvbox.git ~/.config/kitty/kitty-gruvbox
    ```
