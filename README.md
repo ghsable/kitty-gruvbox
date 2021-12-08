@@ -1,5 +1,5 @@
 # kitty-gruvbox
-[kitty](https://github.com/kovidgoyal/kitty) theme with [gruvbox](https://github.com/morhetz/gruvbox).
+[gruvbox](https://github.com/morhetz/gruvbox) for [kitty](https://github.com/kovidgoyal/kitty).
 
 ## Installation
 1. Download the `kitty-gruvbox` to `~/.config/kitty/`.
